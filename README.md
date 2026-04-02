@@ -7,7 +7,7 @@
 
 ## Team
 | Member | Role |
-|--------|--------------|------|
+|--------|------|
 | Sathwik Sangeetham | EDA, preprocessing, density estimation, data storytelling |
 | Rishitha Reddy Mekala | Classification/prediction modeling and evaluation |
 | Viraat Mindaguditi | Clustering, spatial mining, autoencoder embeddings |
