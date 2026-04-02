@@ -1,0 +1,31 @@
+Step1,Step2,Step3,Count,Support
+Hail,Thunderstorm Wind,Thunderstorm Wind,24495,0.13513886283639895
+Hail,Hail,Thunderstorm Wind,24242,0.1337430623751779
+Thunderstorm Wind,Hail,Thunderstorm Wind,21374,0.11792031248275939
+Thunderstorm Wind,Thunderstorm Wind,Hail,21001,0.1158624722770857
+Hail,Thunderstorm Wind,Hail,20897,0.11528870449856006
+Thunderstorm Wind,Hail,Hail,20384,0.11245848459102495
+Tornado,Thunderstorm Wind,Thunderstorm Wind,5151,0.028418056030630374
+Thunderstorm Wind,Thunderstorm Wind,Flash Flood,5041,0.0278111862648821
+Thunderstorm Wind,Tornado,Thunderstorm Wind,4690,0.025874720012358077
+Thunderstorm Wind,Thunderstorm Wind,Tornado,4647,0.025637489103929205
+Hail,Hail,Tornado,3820,0.0210749318650763
+Thunderstorm Wind,Flash Flood,Flash Flood,3771,0.020804598969424798
+Tornado,Hail,Hail,3688,0.020346688146178377
+Hail,Tornado,Hail,3505,0.01933707753588807
+Flash Flood,Thunderstorm Wind,Thunderstorm Wind,3497,0.01929294155292456
+Thunderstorm Wind,Flash Flood,Thunderstorm Wind,2996,0.01652892561983471
+Hail,Hail,Flash Flood,2914,0.016076531794458726
+Flash Flood,Flash Flood,Thunderstorm Wind,2470,0.01362698473998389
+Tornado,Tornado,Thunderstorm Wind,2365,0.013047699963587815
+Thunderstorm Wind,Thunderstorm Wind,Lightning,2336,0.012887707025345089
+Flash Flood,Flash Flood,Flood,2297,0.012672544108397974
+Thunderstorm Wind,Tornado,Tornado,2185,0.012054640346908826
+Winter Storm,Winter Weather,Winter Weather,2167,0.011955334385240927
+Winter Storm,Winter Storm,Winter Weather,2139,0.011800858444868641
+Lightning,Thunderstorm Wind,Thunderstorm Wind,2049,0.011304328636529146
+Thunderstorm Wind,Lightning,Thunderstorm Wind,1947,0.010741594853744386
+Flash Flood,Thunderstorm Wind,Flash Flood,1937,0.010686424875039999
+Tornado,Thunderstorm Wind,Tornado,1923,0.010609186904853855
+Flash Flood,Hail,Hail,1886,0.010405057983647619
+Hail,Flash Flood,Flash Flood,1870,0.010316786017720597

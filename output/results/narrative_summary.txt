@@ -1,0 +1,37 @@
+STORM SEVERITY MINING AT SCALE — KEY FINDINGS
+==================================================
+
+Dataset: 1,708,366 storm events across 69 states (1996-2024)
+Total economic damage: $628.6B
+Total deaths: 22,909
+Total injuries: 101,328
+
+--- INSIGHT: Extreme Damage Skewness ---
+76.4% of all events record zero economic damage.
+Among damage-positive events, the top 1% account for $568.3B (90.4% of total damage).
+This extreme right-skew (skewness=148) motivates log-transforming damage before quartile binning for classification.
+
+Most economically damaging event types:
+  - Hurricane (Typhoon): $167.2B (26.6% of total)
+  - Flash Flood: $102.7B (16.3% of total)
+  - Storm Surge/Tide: $61.0B (9.7% of total)
+
+Deadliest event types:
+  - Heat: 3,834 deaths
+  - Excessive Heat: 2,611 deaths
+  - Tornado: 2,175 deaths
+
+--- INSIGHT: Economic vs Human Cost Divergence ---
+The most economically damaging type (Hurricane (Typhoon)) differs from the deadliest (Heat). This mismatch implies that damage mitigation and casualty prevention require different resource allocation strategies.
+
+Worst year for damage: 2005 ($100.7B)
+Most damaging season: Summer ($262.0B)
+
+--- INSIGHT: Prediction Limitations ---
+Random Forest achieves ROC-AUC=0.852 but accuracy=63.4% on 4-class damage prediction. The gap reflects that adjacent damage tiers (e.g., Medium vs High) share nearly identical event-level features. Geographic features (lat/lon) dominate importance, confirming that damage is spatially driven rather than meteorologically determined.
+
+--- INSIGHT: Event Escalation Patterns ---
+Sequential mining reveals Hail → Thunderstorm Wind as the dominant escalation pathway. The bidirectional nature (Hail ↔ TSW) suggests these are concurrent manifestations of the same convective system rather than true causal escalation.
+
+Hazard Zones: 9 identified, 0 classified as Extreme Risk
+Highest-risk zone: Cluster 0 (Texas) — Score=0.690

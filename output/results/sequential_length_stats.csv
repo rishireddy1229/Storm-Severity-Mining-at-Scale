@@ -1,0 +1,7 @@
+Metric,Value
+total_multi_event_episodes,181258.0
+mean_length,8.303545222831543
+median_length,5.0
+max_length,258.0
+pct_length_le_3,38.691257765174505
+pct_single_type_repeated,61.63369340939434

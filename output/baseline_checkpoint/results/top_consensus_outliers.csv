@@ -1,0 +1,51 @@
+EVENT_TYPE,STATE,TOTAL_DAMAGE,TOTAL_DEATHS,TOTAL_INJURIES,DURATION_MIN,BEGIN_LAT,BEGIN_LON,YEAR,MONTH,DAMAGE_CLASS
+Flash Flood,Texas,10000100000.0,38,0,4335.0,29.5688,-95.0139,2017,8,Catastrophic
+Flash Flood,Texas,10000010000.0,6,0,4440.0,29.4972,-94.9164,2017,8,Catastrophic
+Flash Flood,Texas,8000050000.0,3,0,4400.0,29.4493,-96.0027,2017,8,Catastrophic
+Flash Flood,Texas,7000010000.0,4,0,3120.0,30.0408,-95.2487,2017,8,Catastrophic
+Flash Flood,Texas,3000000000.0,5,1,4848.0,29.7808,-93.9376,2017,8,Catastrophic
+Tornado,Missouri,2800000000.0,161,1150,20.0,37.056,-94.5701,2011,5,Catastrophic
+Flash Flood,Puerto Rico,2500000000.0,9,0,1980.0,18.449,-66.1638,2017,9,Catastrophic
+Hail,Colorado,2300000000.0,0,0,0.0,39.77,-105.1,2017,5,Catastrophic
+Flash Flood,Texas,2000100000.0,0,0,4345.0,29.5927,-95.4067,2017,8,Catastrophic
+Flood,Tennessee,2000000000.0,0,0,14400.0,35.001,-90.2966,2011,5,Catastrophic
+Tornado,Oklahoma,2000000000.0,24,207,31.0,35.303,-97.605,2013,5,Catastrophic
+Hail,Arizona,1800000000.0,0,1,54.0,33.2692,-111.9672,2010,10,Catastrophic
+Flood,Louisiana,1680000000.0,4,0,9360.0,30.711,-91.224,2016,8,Catastrophic
+Tornado,Texas,1550000000.0,0,0,32.0,32.8685,-96.9149,2019,10,Catastrophic
+Flood,Tennessee,1500001000.0,10,0,4755.0,36.07,-86.63,2010,5,Catastrophic
+Tornado,Alabama,1500000000.0,52,800,47.0,33.0606,-87.8315,2011,4,Catastrophic
+Flash Flood,Texas,1500000000.0,10,0,5970.0,29.7758,-93.9372,2017,8,Catastrophic
+Hail,Texas,1360000000.0,0,0,0.0,29.54,-98.66,2016,4,Catastrophic
+Flood,Louisiana,1340000000.0,2,0,9180.0,30.646,-90.906,2016,8,Catastrophic
+Flash Flood,Michigan,1100000000.0,0,0,300.0,42.042,-83.2,2014,8,Catastrophic
+Tornado,Tennessee,1090000000.0,2,170,22.0,36.1717,-86.9562,2020,3,Catastrophic
+Flood,Louisiana,1070000000.0000001,0,0,14400.0,30.342,-90.928,2016,8,Catastrophic
+Flood,Mississippi,1000000000.0,0,0,14400.0,34.4955,-90.5878,2011,5,Catastrophic
+Tornado,Alabama,1000000000.0,4,75,19.0,34.662,-87.0705,2011,4,Catastrophic
+Flash Flood,Texas,1000000000.0,0,0,1721.0,32.073,-96.8932,2015,10,Catastrophic
+Tornado,Illinois,910000000.0,3,121,13.0,40.622,-89.5678,2013,11,Catastrophic
+Hail,Arizona,900000000.0,0,0,35.0,33.4097,-112.304,2010,10,Catastrophic
+Hail,Texas,900000000.0,0,0,0.0,32.8251,-96.7312,2012,6,Catastrophic
+Flood,Iowa,750000000.0,0,0,14400.0,42.1619,-91.8279,2008,6,Catastrophic
+Thunderstorm Wind,Oklahoma,750000000.0,0,1,0.0,34.64,-99.33,2008,6,Catastrophic
+Flash Flood,Puerto Rico,750000000.0,0,0,2028.0,18.2757,-66.1775,2017,9,Catastrophic
+Flash Flood,Puerto Rico,750000000.0,1,0,1980.0,18.42,-66.33,2017,9,Catastrophic
+Flash Flood,Puerto Rico,750000000.0,0,0,2845.0,18.4585,-65.9779,2017,9,Catastrophic
+Flash Flood,Puerto Rico,750000000.0,0,0,1838.0,18.4165,-66.1964,2017,9,Catastrophic
+Flash Flood,Puerto Rico,750000000.0,0,0,3048.0,18.4407,-66.1121,2017,9,Catastrophic
+Flash Flood,Puerto Rico,750000000.0,0,0,1819.0,18.479,-66.5298,2017,9,Catastrophic
+Flash Flood,Puerto Rico,750000000.0,0,0,1819.0,18.2425,-66.3519,2017,9,Catastrophic
+Flash Flood,Puerto Rico,750000000.0,1,0,1874.0,18.481,-66.7708,2017,9,Catastrophic
+Flash Flood,Puerto Rico,750000000.0,2,0,999.0,18.4152,-67.1596,2017,9,Catastrophic
+Flash Flood,Puerto Rico,750000000.0,0,0,1227.0,18.5133,-67.1012,2017,9,Catastrophic
+Flash Flood,Puerto Rico,750000000.0,4,0,1222.0,18.3044,-67.2271,2017,9,Catastrophic
+Flash Flood,Puerto Rico,750000000.0,0,0,1074.0,18.1674,-67.1783,2017,9,Catastrophic
+Flash Flood,Puerto Rico,750000000.0,3,0,1980.0,18.27,-66.7,2017,9,Catastrophic
+Flash Flood,Puerto Rico,750000000.0,0,0,1459.0,18.022,-66.0948,2017,9,Catastrophic
+Flash Flood,Puerto Rico,750000000.0,0,0,2971.0,18.414,-65.9005,2017,9,Catastrophic
+Flash Flood,Puerto Rico,750000000.0,0,0,3036.0,18.2822,-65.633,2017,9,Catastrophic
+Flash Flood,Puerto Rico,750000000.0,0,0,1837.0,18.3034,-66.0659,2017,9,Catastrophic
+Flash Flood,Puerto Rico,750000000.0,0,0,1319.0,18.4862,-66.8329,2017,9,Catastrophic
+Flash Flood,Puerto Rico,750000000.0,0,0,1759.0,18.1811,-66.241,2017,9,Catastrophic
+Flash Flood,Puerto Rico,750000000.0,0,0,1658.0,18.1433,-66.217,2017,9,Catastrophic

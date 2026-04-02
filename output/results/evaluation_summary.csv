@@ -1,0 +1,10 @@
+Model,Macro_F1,95% CI,Kappa,Type
+Majority Class,0.1244,—,0.0000,Baseline
+Stratified Random,0.2508,—,0.0011,Baseline
+Random Forest,0.6111,"[0.6077, 0.6146]",0.5010,Trained
+XGBoost,0.5922,"[0.5889, 0.5958]",0.4826,Trained
+LightGBM,0.5466,"[0.5433, 0.5501]",0.4301,Trained
+Decision Tree,0.4780,"[0.4745, 0.4812]",0.3366,Trained
+k-NN,0.4760,"[0.4726, 0.4792]",0.3128,Trained
+SVM,0.4509,"[0.4477, 0.4543]",0.2858,Trained
+RF (Temporal Split),0.4722,—,0.3257,Temporal

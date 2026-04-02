@@ -1,0 +1,23 @@
+STORM SEVERITY MINING AT SCALE — KEY FINDINGS
+==================================================
+
+Dataset: 1,708,366 storm events across 69 states (1996-2024)
+Total economic damage: $628.6B
+Total deaths: 22,909
+Total injuries: 101,328
+
+Most economically damaging event types:
+  - Hurricane (Typhoon): $167.2B (26.6% of total)
+  - Flash Flood: $102.7B (16.3% of total)
+  - Storm Surge/Tide: $61.0B (9.7% of total)
+
+Deadliest event types:
+  - Heat: 3,834 deaths
+  - Excessive Heat: 2,611 deaths
+  - Tornado: 2,175 deaths
+
+Worst year for damage: 2005 ($100.7B)
+Most damaging season: Summer ($262.0B)
+
+Hazard Zones: 3 identified, 0 classified as Extreme Risk
+Highest-risk zone: Cluster 0 (Texas) — Score=0.656
